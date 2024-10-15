@@ -56,7 +56,7 @@ This system allows you to query a PDF file and retrieve relevant text along with
 
 Here’s an example of how you can run the process:
 
-1. **PDF Input**: Load a PDF file such as `G S T Smart Guide.pdf`.
+1. **PDF Input**: Load a PDF file.
 2. **Query**: Ask a question, for instance, "Who are eligible to take Input Tax Credit?"
 3. **Generated Answer**: The system will return a concise and relevant answer based on the content of the PDF.
 
